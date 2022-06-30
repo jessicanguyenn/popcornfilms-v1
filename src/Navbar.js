@@ -4,7 +4,7 @@ const Navbar = () => {
         <nav className={"navbar navbar-expand-md bg-color-1 sticky-top"}>
             <div className="container-xxl">
                 <a href="#home" className="navbar-brand ">
-                    <span className="text-color-3 px-3 nav-title fw-900">
+                    <span className="text-color-3 px-3 nav-title fw-900" title="Home">
                         POPCORNFILMS
                     </span>
                 </a>

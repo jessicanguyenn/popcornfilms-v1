@@ -16,17 +16,20 @@ const Home = ({one, two, three}) => {
                 <h1 className={"fw-900 text-color-3 text-center"}>POPCORNFILMS</h1>
             </div>
             <div className={"container"}>
+                <div className="container">
+                    <h3 className={"text-center text-color-3 fst-italic"}>Featured films</h3>
+                </div>
                 <Carousel className="slideshow-item">
                     <Carousel.Item>
                         <img className={"d-block screencap"} src={require(`${movieOne.screencap}`)} alt={movieOne.title + " (" + movieOne.year + ")"}/>
-                        <Carousel.Caption>
+                        <Carousel.Caption className="screencap-caption">
                             <h3 className="fst-italic">{movieOne.title + " (" + movieOne.year + ")"}</h3>
                             {/*<p>{movieOne.description}</p>*/}
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
                         <img className={"d-block screencap"} src={require(`${movieTwo.screencap}`)} alt={movieTwo.title + " (" + movieTwo.year + ")"}/>
-                        <Carousel.Caption>
+                        <Carousel.Caption className="screencap-caption">
                             <h3 className="fst-italic">{movieTwo.title + " (" + movieTwo.year + ")"}</h3>
                         </Carousel.Caption>
                     </Carousel.Item>

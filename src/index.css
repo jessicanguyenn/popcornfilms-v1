@@ -88,9 +88,33 @@
   border-radius: 5px;
 }
 
+.carousel-control-prev-icon {
+  background-color: #FB8500;
+}
+
+.carousel-control-next-icon {
+  background-color: #FB8500;
+}
+
 /* movies list */
 
 .movie-poster {
   max-width: 100%;
   max-height: 100%;
+  border: 2px solid #FB8500;
+  color: #FB8500;
+}
+
+.movie-container {
+  border: 2px solid #8ECAE6;
+}
+
+.dropdown-box {
+  background-color: #FFFFFF;
+  border: 1px solid #FB8500;
+  color: #023047;
+}
+
+.dropdown-option {
+  background-color: #FFFFFF;
 }
