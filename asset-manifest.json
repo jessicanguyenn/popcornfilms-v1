@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/popcornfilms-v1/static/css/main.073c9b0a.css",
-    "main.js": "/popcornfilms-v1/static/js/main.8b1349d6.js",
-    "static/media/logo.svg": "/popcornfilms-v1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/popcornfilms-v1/static/css/main.a3357f5b.css",
+    "main.js": "/popcornfilms-v1/static/js/main.cece1738.js",
+    "static/media/before_sunrise_poster.jpg": "/popcornfilms-v1/static/media/before_sunrise_poster.1507d66e358fe5532462.jpg",
+    "static/media/ferris_bueller_screencap.jpg": "/popcornfilms-v1/static/media/ferris_bueller_screencap.1d833ef32bf8736f2ac4.jpg",
+    "static/media/before_sunrise_screencap.jpg": "/popcornfilms-v1/static/media/before_sunrise_screencap.461521ef42163814684d.jpg",
+    "static/media/dune_screencap.jpg": "/popcornfilms-v1/static/media/dune_screencap.e515862304fbd8718a34.jpg",
+    "static/media/ferris_bueller_poster.jpg": "/popcornfilms-v1/static/media/ferris_bueller_poster.10e27ab0e096f2aa34df.jpg",
+    "static/media/dune_poster.jpg": "/popcornfilms-v1/static/media/dune_poster.dc4e48a7666ef6426456.jpg",
     "index.html": "/popcornfilms-v1/index.html",
-    "main.073c9b0a.css.map": "/popcornfilms-v1/static/css/main.073c9b0a.css.map",
-    "main.8b1349d6.js.map": "/popcornfilms-v1/static/js/main.8b1349d6.js.map"
+    "main.a3357f5b.css.map": "/popcornfilms-v1/static/css/main.a3357f5b.css.map",
+    "main.cece1738.js.map": "/popcornfilms-v1/static/js/main.cece1738.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8b1349d6.js"
+    "static/css/main.a3357f5b.css",
+    "static/js/main.cece1738.js"
   ]
 }
