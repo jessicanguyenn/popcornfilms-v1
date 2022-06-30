@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/popcornfilms-v1/static/css/main.a3357f5b.css",
-    "main.js": "/popcornfilms-v1/static/js/main.cece1738.js",
+    "main.css": "/popcornfilms-v1/static/css/main.2b74accf.css",
+    "main.js": "/popcornfilms-v1/static/js/main.4f1e6bb4.js",
+    "static/media/spider-man-no-way-home-poster.jpg": "/popcornfilms-v1/static/media/spider-man-no-way-home-poster.1e63f766f682201ab2b4.jpg",
     "static/media/before_sunrise_poster.jpg": "/popcornfilms-v1/static/media/before_sunrise_poster.1507d66e358fe5532462.jpg",
     "static/media/ferris_bueller_screencap.jpg": "/popcornfilms-v1/static/media/ferris_bueller_screencap.1d833ef32bf8736f2ac4.jpg",
+    "static/media/top_gun_poster.jpg": "/popcornfilms-v1/static/media/top_gun_poster.18ac80803a3ba5bbdccd.jpg",
     "static/media/before_sunrise_screencap.jpg": "/popcornfilms-v1/static/media/before_sunrise_screencap.461521ef42163814684d.jpg",
     "static/media/dune_screencap.jpg": "/popcornfilms-v1/static/media/dune_screencap.e515862304fbd8718a34.jpg",
     "static/media/ferris_bueller_poster.jpg": "/popcornfilms-v1/static/media/ferris_bueller_poster.10e27ab0e096f2aa34df.jpg",
     "static/media/dune_poster.jpg": "/popcornfilms-v1/static/media/dune_poster.dc4e48a7666ef6426456.jpg",
     "index.html": "/popcornfilms-v1/index.html",
-    "main.a3357f5b.css.map": "/popcornfilms-v1/static/css/main.a3357f5b.css.map",
-    "main.cece1738.js.map": "/popcornfilms-v1/static/js/main.cece1738.js.map"
+    "main.2b74accf.css.map": "/popcornfilms-v1/static/css/main.2b74accf.css.map",
+    "main.4f1e6bb4.js.map": "/popcornfilms-v1/static/js/main.4f1e6bb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3357f5b.css",
-    "static/js/main.cece1738.js"
+    "static/css/main.2b74accf.css",
+    "static/js/main.4f1e6bb4.js"
   ]
 }
