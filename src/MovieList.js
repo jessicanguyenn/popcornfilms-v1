@@ -1,16 +1,9 @@
-import {useState} from 'react';
 import Form from 'react-bootstrap/Form';
 
 const MovieList = ({movies}) => {
 
-    const [sortValue, setSortValue] = useState('Trending');
-
-    const handleSelectSort = (value) => {
-        setSortValue(value)
-    }
-
     return ( 
-        <div className="container py-5">
+        <div className="container py-5" id="movies">
             <h1 className={"text-center text-color-3 fw-bold pt-5 pb-2"}>Films</h1>
             <div className={"container dropdown-container py-3"}>
                 <div className="row">

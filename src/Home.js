@@ -11,7 +11,7 @@ const Home = ({one, two, three}) => {
     three.map((movie3) => movieThree = movie3);
 
     return ( 
-        <div className="container w-100">
+        <div className="container w-100" id="home">
             <div className={"container p-5"}>
                 <h1 className={"fw-900 text-color-3 text-center"}>POPCORNFILMS</h1>
             </div>

@@ -3,7 +3,7 @@ const Navbar = () => {
         // navbar
         <nav className={"navbar navbar-expand-md bg-color-1 sticky-top"}>
             <div className="container-xxl">
-                <a href="#home" className="navbar-brand ">
+                <a href="#" className="navbar-brand ">
                     <span className="text-color-3 px-3 nav-title fw-900" title="Home">
                         POPCORNFILMS
                     </span>
@@ -20,7 +20,7 @@ const Navbar = () => {
                         <a href="#movies" className={"nav-link text-color-3 text-wrap"} title="Movies">MOVIES</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#styles" className={"nav-link text-color-3 text-wrap"} title="Login / Register">LOGIN / REGISTER</a>
+                        <a href="#account" className={"nav-link text-color-3 text-wrap"} title="Login / Register">LOGIN / REGISTER</a>
                     </li>
                     <li className="nav-item">
                         <a href="#contact" className="nav-help-icon">
